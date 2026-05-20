@@ -1,0 +1,8 @@
+@import url("https://use.typekit.net/mld2goz.css");
+@import "tailwindcss";
+
+@theme {
+  --font-adventures: adventures-unlimited, sans-serif;
+  --font-area: area-normal, sans-serif;
+  --font-coolvetica: coolvetica, sans-serif;
+}
