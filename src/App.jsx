@@ -9,6 +9,7 @@ import Fecha from "./components/Fecha";
 import Footer from "./components/Footer";
 import Inicio from "./components/Inicio";
 import Ubicacion from "./components/Ubicacion";
+import Regalo from "./components/Regalo";
 
 function App() {
   useEffect(() => {
@@ -32,6 +33,7 @@ function App() {
         <Fecha />
         <Faltan />
         <Ubicacion />
+        <Regalo />
         <DressCode />
         <ConfirmarAsistencia />
         <EmmyXV />
