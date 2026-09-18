@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 
 export default function Faltan() {
   const calcularTiempoRestante = () => {
-    const diferencia = new Date("2026-10-23 21:00:00") - new Date();
+    const diferencia = new Date("2026-10-17 21:00:00") - new Date();
 
     let tiempoRestante = {
       dias: 0,
